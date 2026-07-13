@@ -15,12 +15,6 @@
   <a href="https://github.com/HDNIT3" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://facebook.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
 </p>
 
 <p align="center">
@@ -86,11 +80,11 @@
 
 <p align="center">
   <a href="https://github.com/HDNIT3">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=HDNIT3&show_icons=true&theme=dracula&count_private=true&border_radius=10&hide_border=true" alt="GitHub Stats" />
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HDNIT3&show_icons=true&theme=dracula&count_private=true&border_radius=10&hide_border=true" alt="GitHub Stats" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/HDNIT3">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HDNIT3&layout=compact&theme=dracula&border_radius=10&hide_border=true" alt="Top Langs" />
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HDNIT3&layout=compact&theme=dracula&border_radius=10&hide_border=true" alt="Top Langs" />
   </a>
 </p>
 
@@ -104,14 +98,6 @@
   <a href="https://github.com/HDNIT3">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=HDNIT3&theme=dracula&hide_border=true&radius=10" alt="Activity Graph" width="95%" />
   </a>
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HDNIT3/HDNIT3/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
