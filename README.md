@@ -1,60 +1,77 @@
 <div align="center">
 
-<img src="./banner.png" alt="Huỳnh Duy Nguyên — Developer" width="100%" />
+# Hi, I'm Huỳnh Duy Nguyên 👋
 
-# Huỳnh Duy Nguyên
+### Full-Stack Developer · JavaScript / TypeScript · DevOps
 
-### Full-Stack Developer · DevOps Enthusiast
+Building web applications, learning cloud technologies, and improving developer workflows.
 
-I build web applications and explore the tools that make software easier to develop, ship, and maintain.
-
-[![Email](https://img.shields.io/badge/Email-Contact-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:nguyenhuynh.663459@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguy%C3%AAn-hu%E1%BB%B3nh-685807420/)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/huynh.duy.nguyen.752282)
+[![Email](https://img.shields.io/badge/Email-Contact-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenhuynh.663459@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguy%C3%AAn-hu%E1%BB%B3nh-685807420/)
+[![GitHub](https://img.shields.io/badge/GitHub-@HDNIT3-181717?style=for-the-badge&logo=github)](https://github.com/HDNIT3)
 
 </div>
 
 ---
 
-## About
+## About me
 
-- Focused on full-stack web development and CI/CD automation.
-- Exploring Next.js, cloud services, and Kubernetes.
-- Interested in collaborating on open-source projects and useful web apps.
-- Enjoys building reliable workflows and learning how systems fit together.
+- 🇻🇳 Based in Ho Chi Minh City, Vietnam.
+- 💻 Interested in full-stack development, CI/CD, and cloud services.
+- 🌱 Currently exploring Next.js, AWS, Docker, and Kubernetes.
+- 🤝 Open to collaborating on useful web apps and open-source projects.
 
-## Tech I work with
+## Featured project
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+### [StoryVN](https://github.com/HDNIT3/StoryVN)
 
-**Backend & databases**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+A TypeScript web application project. Its backend is organized into modules for authentication, users, email, and Redis, with MongoDB/Mongoose for data and shared rate-limiting and error-handling utilities.
 
-**Tools & platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+**Stack shown in the repository:** TypeScript · JavaScript · CSS · MongoDB · Redis
 
----
+[![Open StoryVN](https://img.shields.io/badge/View%20repository-StoryVN-7C3AED?style=for-the-badge&logo=github)](https://github.com/HDNIT3/StoryVN)
 
-## Find me
+## Tech stack
 
-- GitHub: [@HDNIT3](https://github.com/HDNIT3)
-- Email: [nguyenhuynh.663459@gmail.com](mailto:nguyenhuynh.663459@gmail.com)
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+## GitHub stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HDNIT3&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub overview stats for HDNIT3" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HDNIT3&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used languages on HDNIT3 repositories" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HDNIT3&theme=tokyo-night&hide_border=true&area=true" alt="HDNIT3 GitHub commit activity graph" width="95%" />
+
+</div>
+
+> Các biểu đồ được tải động từ dịch vụ bên ngoài và có thể cập nhật chậm hoặc tạm thời không hiển thị. Số liệu GitHub có thể thay đổi theo quyền riêng tư của repository và cách GitHub tính đóng góp.
+
+## Beyond code
+
+| Mình thích | |
+|---|---|
+| 🎬 Hoạt hình 3D Trung Quốc | *Mục Thần Ký*, *Đại Phụng Đả Canh Nhân* |
+| 🎮 Game | *Thế Giới Săn Hồn: Đấu La Đại Lục* |
+
+> Mình không nhúng poster hoặc artwork của phim/game để tránh sử dụng hình ảnh có bản quyền khi chưa có quyền sử dụng.
 
 ---
 
 <div align="center">
-  <sub>Thanks for stopping by. Feel free to explore my repositories.</sub>
+  <sub>Thanks for visiting — feel free to explore my repositories.</sub>
 </div>
